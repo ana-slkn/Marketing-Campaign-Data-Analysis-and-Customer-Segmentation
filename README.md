@@ -40,13 +40,13 @@ To run this project, you'll need to install Python and Jupyter. We recommend man
    pip install -r requirements.txt
    ```
 
-###Opening the Project
+### Opening the Project
 
 After installation, you can open the project in Visual Studio Code (VS Code) which supports Jupyter notebooks natively.
 * Open VS Code and navigate to the project folder.
 * Open the Jupyter notebook (.ipynb file) to start working with the data.
 
-###Usage
+### Usage
 
 Each Jupyter notebook cell contains code accompanied by Markdown descriptions to explain the analysis steps. To execute the code:
 * Select the cell you want to run.
